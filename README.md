@@ -1,0 +1,2 @@
+# Quiz App Project
+Project through Udemy Python Course. Goal of section and project is to reinforce learning about making API calls via Python interface and using OOP via Classes when building a GUI app with TKInter. Uploading project for future code reference.
